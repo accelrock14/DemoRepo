@@ -1,3 +1,8 @@
 editing this file in the local repo
 
+<<<<<<< HEAD
 inside the folder after pulling
+=======
+Editing this file in browser
+
+>>>>>>> 0a538f5943b7fe8e5a3771b8c60df6a5b44eb15d
